@@ -42,6 +42,10 @@ h2 {
 	margin: 10px 0 -100px 65px;
 }
 
+.book {
+	width: 23%;
+}
+
 .btn {
 	color: #EDCB9E;
 	background: #6E2525;
@@ -54,6 +58,20 @@ h2 {
 
 .btn:hover {
 	background-color: #993333;
+}
+
+#book_recs {
+	text-align: center;
+}
+
+#book_recs ul {
+	margin: 15px 0 0 30px;
+	list-style: none;
+}
+
+#book_recs li {
+	margin-right: 73px;
+	float: left;
 }
 
 ul.nav {
