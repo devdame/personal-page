@@ -20,13 +20,17 @@ h2 {
 	font-family: 'Mate SC', serif;
 }
 
+#cohort {
+	font-size: .850em;
+}
+
 .caps {
 	font-size: 1.250em;
 }
 
 #name {
 	font-family: "Meddon";
-	font-size: 2.250em;
+	font-size: 2.350em;
 	text-align: left;
 	margin-left: -128px;
 	margin-top: 40px;
@@ -76,7 +80,7 @@ h2 {
 }
 
 ul.nav {
-	margin: 20px 0 0 0;
+	margin: 0px 0 0 0;
 	list-style: none;
 	float: right;
 	font-family: 'Meddon', serif;
@@ -109,6 +113,11 @@ ul.nav li a {
 
 #d_and_d {
 	margin-top: -50px;
+}
+
+#contact {
+	text-align: center;
+	margin-top: 40px;
 }
 
 #poetry {
