@@ -85,7 +85,7 @@ ul.nav li a {
 
 #new-cupcakes img {
 	border: 8px solid #993333;
-	margin: 0px 0 20px 0;
+/*	margin: 0px 0 20px 0; */
 }
 
 #new-cupcakes{
@@ -101,7 +101,7 @@ ul.nav li a {
 }
 
 #copyright {
-	border-top: 8px solid #2A0400;
+	border-top: 8px solid #6E2525;
 	padding: 10px 0px;
 	margin: 15px 0px;
 	text-align: center;
