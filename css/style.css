@@ -117,7 +117,8 @@ ul.nav li a {
 
 #contact {
 	text-align: center;
-	margin-top: 40px;
+	/*border: 2px solid #328980;*/
+	margin: 50px 250px 0px 250px;
 }
 
 #poetry {
